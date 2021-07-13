@@ -1,2 +1,4 @@
-# javaScript
-repositório feito para mostrar os exemplos de javaScript que tinha feito a um tempo atrás, depois vou atualizar e organizado
+## javaScript
+
+## DESCRIÇÃO 
+Neste repositório, foram feitos exemplos na aprendizagem da linguagem javaScript, com linguagem de marcação de texto "HTML" e liguagem  de estilo "CSS". 
