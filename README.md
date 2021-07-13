@@ -6,13 +6,13 @@ Neste repositório, foram feitos exemplos na aprendizagem da linguagem javaScrip
 ## Telas com alguns exemplos, desse pequeno trabalho pessoal
 
 <p align= "center">
-	<img width="470" heigth="300" src="/manhã.jpg">
+	<img width="470" heigth="300" src="manhã.jpg">
 <p\>
 
 <p align= "center">
-	<img width="470" heigth="300" src="/tarde.jpg">
+	<img width="470" heigth="300" src="tarde.jpg">
 <p\>
 	
 <p align= "center">
-	<img width="470" heigth="300" src="/noite.jpg">
+	<img width="470" heigth="300" src="noite.jpg">
 <p\>
