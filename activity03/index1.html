@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div#kiss {
+            font: normla 20px Arial;
+            background: rgb(96, 219, 96);
+            color: white;
+            width: 200px;
+            height: 200px;
+            line-height: 200px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="kiss"> // tinha a opção de onclick, onmouseenter, onmouseout. O id é pra
+        ola mundo
+    </div>
+
+    <script>
+        var a = document.getElementById('kiss');         //  criou uma variável que pega o elemento id kiss
+        a.addEventListener('click', clicar);                    //  adiciona na lista a variével de click com o function
+        a.addEventListener('mouseenter', entrar);        //
+        a.addEventListener('mouseout', sair);              //
+
+        function clicar() {                             // criada uma function para um um evento 
+            a.innerText = 'RED'                    //   mudando o texto da id kiss 
+            a.style.background = 'red'            // mudando do backgroud de kiss 
+        }
+        function entrar() {
+            a.innerText = 'TRUE'
+
+        }
+        function sair() {
+            a.innerText = 'GREEN'
+            a.style.background = 'green'
+
+        }
+
+    </script>
+</body>
+
+</html>
