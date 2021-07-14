@@ -8,11 +8,3 @@ Neste repositório, foram feitos exemplos na aprendizagem da linguagem javaScrip
 <p align= "center">
 	<img width="470" heigth="300" src="/imagen/manhã.jpg">
 <p\>
-
-<p align= "center">
-	<img width="470" heigth="300" src="/imagen/tarde.jpg">
-<p\>
-	
-<p align= "center">
-	<img width="470" heigth="300" src="/imagen/noite.jpg">
-<p\>
